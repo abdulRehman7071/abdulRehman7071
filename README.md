@@ -1,4 +1,4 @@
-![logo](https://github.com/abdulRehman7071/abdulRehman7071/blob/main/banner.png)
+<!-- ![logo](https://github.com/abdulRehman7071/abdulRehman7071/blob/main/banner.png) -->
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400"
