@@ -1,17 +1,11 @@
 <!-- ![logo](https://github.com/abdulRehman7071/abdulRehman7071/blob/main/banner.png) -->
 <h1 align="center">Hi 👋, I'm Abdul Rehman Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer in React.JS </h3>
 <img align="right" width="400"
     src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
     alt="coding">
 
-- 🌱 I’m currently learning **MongoDb, Express.js, Node.js,**
-
 - 👨‍💻 All of my projects are available at [https://abdul-rehman-portfolio.netlify.app/](https://abdul-rehman-portfolio.netlify.app/)
-
-- 💬 Ask me about **react && javascript**
-
-- 📫 How to reach me **khan.abdul.7071@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman7071&show_icons=true&locale=en&layout=compact" alt="abdulrehman7071" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abdulrehman7071&show_icons=true&locale=en" alt="abdulrehman7071" /></p>
+
 
 
 
